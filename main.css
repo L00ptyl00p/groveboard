@@ -34,12 +34,18 @@ h1 {
   padding: 20px;
   font-family: merienda;
 }
-h2,
-h3 {
+h2 {
   text-align: center;
   font-family: spicy-rice;
   color: rgb(70, 27, 2);
   font-size: 35px;
+  margin: 0 auto;
+}
+h3 {
+  text-align: center;
+  font-family: spicy-rice;
+  color: #ff0080;
+  font-size: 45px;
   margin: 0 auto;
 }
 
