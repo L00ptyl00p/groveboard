@@ -21,6 +21,11 @@ body {
   border-radius: 10px;
   opacity: 0.9;
 }
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 30px;
+}
 h1 {
   text-align: center;
   font-size: 60px;
@@ -29,7 +34,8 @@ h1 {
   padding: 20px;
   font-family: merienda;
 }
-h2 {
+h2,
+h3 {
   text-align: center;
   font-family: spicy-rice;
   color: rgb(70, 27, 2);
@@ -43,7 +49,7 @@ select {
   padding: 10px;
   border-radius: 4px;
   padding: 10px;
-  font-size: 18px;
+  font-size: 25px;
   background-color: #eef3f5;
   color: #012e04;
   font-family: merieda;
