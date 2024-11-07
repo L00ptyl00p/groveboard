@@ -1,9 +1,7 @@
 body {
-  background: rgb(17, 41, 23);
-  background-image: url(https://wallpapers.com/images/featured/aesthetic-sunflower-background-phw7sw2f4aayrzn9.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: rgb(19, 12, 114);
   font-family: merienda;
+  text-align: center;
 }
 .container {
   max-width: 80%;
@@ -33,6 +31,10 @@ body {
 a {
   text-decoration: none;
   color: white;
+}
+a:visited {
+  color: white;
+  text-decoration: none;
 }
 img {
   display: block;
