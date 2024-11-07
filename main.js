@@ -1,4 +1,3 @@
-alert("Welcome");
 function updateWeeks() {
   let weeks = document.querySelector("#weeks");
   let h2 = document.querySelector("h2");

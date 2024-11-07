@@ -1,4 +1,7 @@
 body {
+  background-image: url("https://t4.ftcdn.net/jpg/08/19/45/33/360_F_819453336_skcOcKukiuWYWoC5GPHwVXhxkvNtcutZ.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
   background-color: #0d8eb6;
   font-family: merienda;
   text-align: center;
@@ -31,6 +34,7 @@ body {
 a {
   text-decoration: none;
   color: rgb(32, 3, 99);
+  font-weight: 300;
 }
 a:visited {
   color: rgb(32, 3, 99);
